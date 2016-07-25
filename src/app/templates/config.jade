@@ -22,6 +22,10 @@
         label(for='imageSyncCheck')= t('images sync label')
 
     .item.checkbox
+        input#videoSyncCheck(type="checkbox", checked=syncVideos)
+        label(for='videoSyncCheck')= t('videos sync label')
+
+    .item.checkbox
         input#wifiSyncCheck(type="checkbox", checked=syncOnWifi)
         label(for='wifiSyncCheck')= t('wifi sync label')
 

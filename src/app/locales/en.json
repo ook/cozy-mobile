@@ -15,6 +15,7 @@
     "contacts sync label": "Sync contacts",
     "calendars sync label": "Sync calendars",
     "images sync label": "Backup images",
+    "videos sync label": "Backup videos",
     "wifi sync label": "Backup on Wifi only",
     "cozy notifications sync label": "Sync Cozy notifications",
     "home": "Home",

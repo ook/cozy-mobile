@@ -15,6 +15,7 @@
     "contacts sync label": "Synchronisation des contacts",
     "calendars sync label": "Synchronisation des agendas",
     "images sync label": "Sauvegarde des images du téléphone",
+    "videos sync label": "Sauvegarde des vidéos du téléphone",
     "wifi sync label": "Sauvegarde uniquement en Wifi",
     "cozy notifications sync label": "Synchroniser les notifications Cozy",
     "home": "Accueil",

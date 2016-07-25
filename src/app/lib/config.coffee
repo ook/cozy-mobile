@@ -30,6 +30,7 @@ DEFAULT_CONFIG =
     syncContacts: true
     syncCalendars: true
     syncImages: true
+    syncVideos: true
     syncOnWifi: true
     cozyNotifications: false
 
